@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="coffee">
+        <item >Filer</item>
+        <item >Americano</item>
+        <item >Latte</item>
+        <item >Expresso</item>
+        <item >Cappucion</item>
+        <item >Mocha</item>
+        <item >Skinny Latte</item>
+        <item >Expresso Corretto</item>
+    </string-array>
+    
+</resources>
